@@ -1,0 +1,28 @@
+.messege{
+    padding: 7px;
+    margin: 5px;
+    width: fit-content;
+}
+
+.messege__user{
+    margin-left: auto;
+    color: black;
+    text-align: left !important;
+}
+
+.messege__userCard{
+    background-color: #0b81ff !important;
+}
+
+.messege__guestCard{
+    background-color: #e9e9e9 !important;
+}
+
+.app__cardContent{
+    border-radius: 5px;
+    padding-bottom: 0px !important;
+}
+
+.app__typography{
+    padding-bottom: 10px !important;
+}
