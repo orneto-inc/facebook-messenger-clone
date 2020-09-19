@@ -14,7 +14,8 @@ TECHNOLOGY & TOOLS USED:
 	-Material UI
 	-VSCode
 	
-Resource Used/ Credit: https://www.youtube.com/watch?v=KB7JEnfc7Dc	
+Resource Used/ Credit: https://www.youtube.com/watch?v=KB7JEnfc7Dc
+Resources Added
 	
 
 
