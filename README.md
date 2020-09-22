@@ -1,5 +1,5 @@
 DESCRIPTION:
-	-A messeging service.
+	-Educational & Experimental facebook-messenger-clone
 	-Group Chat
 	-Real Time Messeging
   
@@ -7,6 +7,7 @@ DESCRIPTION:
 TECHNOLOGY & TOOLS USED:
 	-React.js
 	-Firebase Database
+	-Firebase Deployment
 	-git
 	-gitHub
 	-CSS
