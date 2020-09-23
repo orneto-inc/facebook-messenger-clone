@@ -5,15 +5,15 @@ DESCRIPTION:
   
 
 TECHNOLOGY & TOOLS USED:
+	-HTML
+	-CSS	
 	-React.js
+	-Material UI
 	-Firebase Database
 	-Firebase Deployment
+	-VSCode
 	-git
 	-gitHub
-	-CSS
-	-HTML
-	-Material UI
-	-VSCode
 	
 Resource Used/ Credit: https://www.youtube.com/watch?v=KB7JEnfc7Dc
 	
